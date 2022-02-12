@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   fill="currentColor"
+   class="bi bi-mortarboard-fill"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Cursos.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.6875"
+     inkscape:cx="4.3743842"
+     inkscape:cy="19.665025"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="1674"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g829"
+     transform="translate(1.6332053,2.4284226)"
+     style="fill:#5a325f;fill-opacity:1">
+    <path
+       d="m 22.956075,2.1308749 a 1.3979783,1.3979783 0 0 0 -1.179894,0 L 0.80650655,11.916723 a 1.3979783,1.3979783 0 0 0 0.0698989,2.563893 L 21.84608,22.868485 a 1.3979783,1.3979783 0 0 0 1.040096,0 l 16.255691,-6.497804 v 16.384306 a 2.7959566,2.7959566 0 0 0 -2.795956,2.795957 v 5.591913 H 44.73378 V 35.550944 A 2.7959566,2.7959566 0 0 0 41.937824,32.754987 V 15.249504 l 1.918026,-0.768888 a 1.3979783,1.3979783 0 0 0 0.0699,-2.563893 z"
+       id="path2"
+       style="stroke-width:2.79596;fill:#5a325f;fill-opacity:1" />
+    <path
+       d="M 11.675057,21.660632 A 1.3979783,1.3979783 0 0 0 9.8409095,22.57491 l -1.3979783,4.753125 a 1.3979783,1.3979783 0 0 0 0.8220112,1.691554 l 12.5818046,5.032722 a 1.3979783,1.3979783 0 0 0 1.040096,0 l 12.581804,-5.032722 a 1.3979783,1.3979783 0 0 0 0.822011,-1.691554 L 34.892681,22.57491 a 1.3979783,1.3979783 0 0 0 -1.834148,-0.914278 l -10.691739,4.009401 z"
+       id="path4"
+       style="stroke-width:2.79596;fill:#5a325f;fill-opacity:1" />
+  </g>
+</svg>
